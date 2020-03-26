@@ -20,8 +20,13 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://b612.atneo.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
+<<<<<<< HEAD
 title   : Neo的秘密星球
 description: 胡思乱想，杂货整理，思维不尽，生命不息 # this means to ignore newlines until "Language & timezone"
+=======
+title   : Your Site Title
+description: > # this means to ignore newlines until "Language & timezone"
+>>>>>>> parent of dc8f19aa... Update _config.yml
   Your Site Description
 
 
@@ -169,11 +174,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: google # false (default), "google", "custom"
+  provider: false # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : UA-47127463-1 # Google Analytics id for the site
+    tracking_id : # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
