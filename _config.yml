@@ -20,18 +20,8 @@ text_skin: "default" # "default" (default), "dark", "forest", "ocean", "chocolat
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-<<<<<<< HEAD
 title   : Neo的秘密星球
-<<<<<<< HEAD
 description: 胡思乱想，杂货整理，思维不尽，生命不息 # this means to ignore newlines until "Language & timezone"
-=======
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
->>>>>>> parent of dc8f19aa... Update _config.yml
-=======
-description: 胡思乱想，杂货整理，磨难不尽，生命不息 # this means to ignore newlines until "Language & timezone"
->>>>>>> parent of 318af098... Update _config.yml
-  Your Site Description
 
 
 ## => Language and Timezone
@@ -44,13 +34,8 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-<<<<<<< HEAD
   name      : Neo
   url       : https://b612.atneo.com
-=======
-  name      : Your Name
-  url       :
->>>>>>> parent of 8d4f331b... Update _config.yml
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : neo@atneo.com
